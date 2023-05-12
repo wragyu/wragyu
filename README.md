@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Roy 👋 
+
+Architecture Designer 
+
+Turned Software Developer
+
+I'm Excited About Web Technologies and its accessibility to all
 
 <!--
 **wragyu/wragyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Upscaled Exia](https://github.com/wragyu/wragyu/assets/114426151/b79ce659-62bf-4a66-af8b-1359c0389ce0)
+
+
